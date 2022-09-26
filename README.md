@@ -2,6 +2,7 @@
 
 Calculadora simples para encontrar Índice de Massa Corporal (IMC).
 ##
+
 Para interpretar o resultado:
 
 | IMC (kg/m2) | Classificação |
